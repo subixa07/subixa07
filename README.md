@@ -8,7 +8,9 @@
   <a href="https://github.com/subixa07">
     <img src="https://img.shields.io/badge/GitHub-subixa07-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/subiksha-undefined-2588603b8
+
+">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -17,13 +19,15 @@
 
 ## ✨ About Me
 
-I'm **Subi**, a passionate **[YOUR ROLE — e.g. Frontend Developer / Full-Stack Developer / Student]** who enjoys turning ideas into clean, useful digital experiences.
+I'm **Subi**, a passionate **[Data Analyytis / Frontend Developer / Full-Stack Developer / Student]** who enjoys turning ideas into clean, useful digital experiences.
 
-- 🔭 Currently working on **[CURRENT PROJECT]**
-- 🌱 Learning **[WHAT YOU ARE LEARNING]**
-- 💬 Ask me about **[YOUR MAIN SKILLS]**
-- 📫 Reach me at **[YOUR EMAIL OR LINKEDIN]**
-- ⚡ Fun fact: **[A SHORT FUN FACT]**
+- 🔭 Currently working on **[SIH2026]**
+- 🌱 Learning **[ull Stack / Data Analytics ]**
+- 💬 Ask me about **[Communiation]**
+- 📫 Reach me at **[subixa07@gmail.com / www.linkedin.com/in/subiksha-undefined-2588603b8
+
+]**
+- ⚡ Fun fact: **[I enjoy turning late-night ideas into working projects]**
 
 ## 🛠️ Tech Stack
 
@@ -33,15 +37,15 @@ I'm **Subi**, a passionate **[YOUR ROLE — e.g. Frontend Developer / Full-Stack
 
 </div>
 
-> Replace the icon names above with your actual skills. Examples: `html,css,js,react,nodejs,python,java,mysql,figma,flutter`.
+> Replace the icon names above with your actual skills. Examples: `powerbi,html,css,js,react,nodejs,python,java,mysql,figma`.
 
 ## 🚀 Current Focus
 
 | Project | Description | Status |
 |---|---|---|
-| **[Project Name]** | [One-line description of what it does.] | 🚧 Building |
-| **[Project Name]** | [One-line description of what it does.] | ✅ Completed |
-| **[Project Name]** | [One-line description of what it does.] | 💡 Exploring |
+| **[Question paper generator]** | [generate a uestion paper according the syllabus.] | ✅ Completed|
+| **[Bharadhiyin kural]** | [Tamil speech text voice assistant.] | 🚧 Building |
+| **[Learn loop-AI]** | [Stuent edcational platform.] | 💡 Exploring |
 
 ## 📊 GitHub Analytics
 
